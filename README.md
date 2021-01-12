@@ -1,0 +1,2 @@
+# solar-forecasting
+MSc. thesis
